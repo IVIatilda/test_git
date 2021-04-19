@@ -1,0 +1,225 @@
+body {
+    margin: 0;
+    background: #000;
+    color: #fff;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.header {
+    padding: 30px 0;
+}
+
+.header a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.header .logo {
+    margin-right: 282px;
+}
+
+.logo img {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 11px;
+}
+
+.logo span {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.2;
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 55px;
+}
+
+.menu-item {
+    font-size: 16px;
+    color: rgb(253, 239, 213);
+    line-height: 1.2;
+    margin-right: 55px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.main-block {
+    padding: 133px 0 75px;
+}
+
+.main-info {
+    display: inline-block;
+    padding-bottom: 50px;
+}
+
+.main-info h1 {
+    font-size: 45px;
+    font-weight: bold;
+    line-height: 1.222;
+    max-width: 520px;
+    margin-bottom: 81px;
+}
+
+.main-info h1 span {
+    color: #ffaf18;
+}
+
+.main-info .advantages-item {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 100px;
+}
+
+.main-info .advantages-item img {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 11px;
+}
+
+.main-info .advantages-item span {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.main-image {
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.main-advantages {
+    margin-bottom: 99px;
+}
+
+.main-button button {
+    background-color: rgb(255, 175, 24);
+    width: 224px;
+    height: 60px;
+    font-size: 16px;
+    color: rgb(2, 3, 3);
+    font-weight: bold;
+    line-height: 3.438;
+    border: none;
+    border-radius: 30px;
+}
+
+.products {
+    padding: 120px 0;
+}
+
+.products h2 {
+    font-size: 35px;
+    font-weight: bold;
+    line-height: 1.571;
+    text-align: center;
+    margin-bottom: 48px;
+    margin-top: 0;
+}
+
+.products .products-container {
+    margin: 0 -12px;
+    font-size: 0;
+}
+
+.products .product {
+    margin: 12px;
+    background: #fff;
+    width: 282px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    color: #181a1a;
+    padding: 10px 20px 15px;
+    box-sizing: border-box;
+}
+
+.products .product img {
+    margin-bottom: 30px;
+}
+
+.products .product .product-title {
+    font-size: 18px;
+    color: rgb(24, 26, 26);
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.products .product .product-text {
+    font-size: 14px;
+    color: rgb(24, 26, 26);
+    line-height: 1.286;
+    height: 50px;
+    max-width: 220px;
+    margin: 0 auto 15px;
+}
+
+.products .product button {
+    background-color: rgb(255, 175, 24);
+    width: 242px;
+    height: 50px;
+    font-size: 16px;
+    color: rgb(2, 3, 3);
+    font-weight: bold;
+    border: none;
+    border-radius: 25px;
+}
+
+.cook {
+    padding-top: 120px;
+}
+
+.cook-text {
+    max-width: 340px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.cook h2 {
+    font-size: 35px;
+    font-weight: bold;
+    line-height: 1.286;
+    margin-bottom: 60px;
+    margin-top: 0;
+}
+
+.cook p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.cook-image {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 40px;
+}
+
+.nowrap {
+    white-space: nowrap;
+}
+
+.footer {
+    padding: 30px 0;
+}
+
+.footer .logo {
+    margin-right: 390px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.footer .copyright {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 12px;
+    color: rgb(44, 44, 44);
+    line-height: 1.2;
+}
